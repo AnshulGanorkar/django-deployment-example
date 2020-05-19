@@ -1,0 +1,1 @@
+from firstDjangoProject.wsgi import application
